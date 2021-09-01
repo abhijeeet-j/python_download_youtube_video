@@ -1,7 +1,6 @@
 from pytube import YouTube
 SAVE_PATH = "D:/"
 '''link="https://www.youtube.com/watch?v=xWOoBJUqlbI"
-
 try:
     yt = YouTube(link)
 except:
